@@ -56,6 +56,8 @@ aside {
     width: 23%;
     float: top;
     padding:.25rem;
-    border-style:groove;
-
+    border-style:groove double dotted dashed;
+    border-color:azure palevioletred papayawhip gainsboro;
+    border-width: .25rem .2rem .4rem .5rem;
 }
+
