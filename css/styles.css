@@ -200,3 +200,15 @@ th{
     background-color:black;
 }
 
+td{
+    padding: 1rem;
+    border: .1rem solid violet;
+}
+
+tr:nth-child(even){
+    background-color:aquamarine;
+}
+
+tr:hover{
+    background-color: linen;
+}
