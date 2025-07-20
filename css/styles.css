@@ -22,7 +22,7 @@ body{
     border-style: solid;
     border-width: .25rem;
     border-color: #ff5f1f;
-    background-color:fuchsia
+    background-color: fuchsia
 }
 
 /* this is the header and the footer */
@@ -36,28 +36,28 @@ header, footer {
 main {
     width: 67%;
     float: left;
-    padding:.25;
+    padding: .25;
     border-top-style: double;
     border-bottom-style: inset;
     border-right-style: initial;
     border-left-style: groove;
-    border-top-color:aquamarine;
-    border-bottom-color:darksalmon;
-    border-right-color:fuchsia;
-    border-left-color:lightpink;
-    border-top-width:.25rem;
-    border-bottom-width:.5rem;
-    border-right-width:.3rem;
-    border-left-width:.4rem;
-    background-color:fuchsia;    
+    border-top-color: aquamarine;
+    border-bottom-color: darksalmon;
+    border-right-color: fuchsia;
+    border-left-color: lightpink;
+    border-top-width: .25rem;
+    border-bottom-width: .5rem;
+    border-right-width: .3rem;
+    border-left-width: .4rem;
+    background-color: fuchsia;    
 }
 
 aside {
     width: 23%;
     float: right;
-    padding:.25rem;
-    border-style:groove double dotted dashed;
-    border-color:azure palevioletred papayawhip gainsboro;
+    padding: .25rem;
+    border-style: groove double dotted dashed;
+    border-color: azure palevioletred papayawhip gainsboro;
     border-width: .25rem .2rem .4rem .5rem;
 }
 footer{
@@ -66,9 +66,16 @@ footer{
 
 /*This will be the style for h1 */
 h1{
-    color:crimson;
-    font-size:3rem;
-    padding:.5em;
-    text-align:center;
+    color: crimson;
+    font-size: 3rem;
+    padding: .5em;
+    text-align: center;
 }
 
+/* now I will be working on the block quote. */
+
+blockquote{
+    width: 60%;
+    margin: auto;
+
+}
