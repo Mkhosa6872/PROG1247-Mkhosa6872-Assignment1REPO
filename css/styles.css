@@ -84,5 +84,17 @@ blockquote{
 }
 
 figure{
-    
+    border: .25rem hidden red;
+    border-radius: .5rem;
+    padding: .5rem;
 }
+
+figure > img {
+    width: 60%;
+    display: block;
+    margin: auto;
+    border: .25rem double royalblue;
+    border-radius: .5rem;
+}
+
+
