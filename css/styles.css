@@ -184,3 +184,19 @@ a:active{
     margin-bottom: 1rem;
 }
 
+/*Here I will be using a table to adjust the styles in my styles.css file. */
+
+table{
+    width: 100%;
+    border-collapse:collapse;
+    margin-bottom: 2rem;
+}
+
+th{
+    text-align:left;
+    font-weight:bold;
+    font-variant:normal;
+    color:magenta;
+    background-color:black;
+}
+
