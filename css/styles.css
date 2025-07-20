@@ -77,5 +77,12 @@ h1{
 blockquote{
     width: 60%;
     margin: auto;
+    border: .5rem dotted pink;
+    padding: .25rem;
+    margin: .25rem;
+    box-shadow: .5rem .75rem .5rem .5rem red;
+}
 
+figure{
+    
 }
