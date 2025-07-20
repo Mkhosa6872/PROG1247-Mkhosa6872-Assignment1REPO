@@ -31,9 +31,12 @@ header, footer {
     background-image: linear-gradient(to top, pink, orange, magenta, red, cyan);
 }
 
+/* this is the style for the main */
+
 main {
     width: 67%;
     float: bottom;
+    padding:.25;
     border-top-style: double;
     border-bottom-style: inset;
     border-right-style: initial;
@@ -46,8 +49,13 @@ main {
     border-bottom-width:.5rem;
     border-right-width:.3rem;
     border-left-width:.4rem;
-    
-    
+    background-color:aliceblue    
+}
 
-
+aside {
+    width: 23%;
+    float: left;
+    padding:.25rem;
+    border-style:groove;
+    
 }
