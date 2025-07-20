@@ -212,3 +212,16 @@ tr:nth-child(even){
 tr:hover{
     background-color: linen;
 }
+
+@media (max-width: 750px){
+    html{
+        font-size:15px;
+    }
+}
+
+@media(max-width:620px){
+    main, aside{
+        float:none;
+        width:100%;
+    }
+}
