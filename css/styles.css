@@ -21,5 +21,28 @@ body{
     margin: auto;
     border-style: solid;
     border-width: .25rem;
-    border-color: #ff5f1f
+    border-color: #ff5f1f;
+    background-color:fuchsia
+}
+
+/* this is the header and the footer */
+
+header, footer { 
+    background-image: linear-gradient(to top, pink, orange, magenta, red, cyan);
+}
+
+main {
+    width: 67%;
+    float: bottom;
+    border-top-style: double;
+    border-bottom-style: inset;
+    border-right-style: initial;
+    border-left-style: groove;
+    border-top-color:aquamarine;
+    border-bottom-color:darksalmon;
+    border-right-color:fuchsia;
+    border-left-color:lightpink;
+    
+
+
 }
