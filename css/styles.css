@@ -1,9 +1,9 @@
 /* Manveer Khosa 8536872 */
 
 /* These are the selectors I am using throughout my style sheet.
-ID Selector, Element Selector, Group Selector, Pseudo class selector, Class Selector, and Descendant Selector. */
+ID Selector, Element Selector, Group Selector, Pseudo class selector, Class Selector, Pseudo-element, and Descendant Selector. */
 
-/* This will be the be the body of my style sheet. */
+/* This will be the be the style settings for the body of my style sheet. */
 
 html{ font-style: italic; 
       font-variant: small-caps; 
@@ -14,4 +14,9 @@ html{ font-style: italic;
       font: normal small-caps normal 20px/1.5 'Times New Roman', Times, serif;
       background-color: #ffb6c1;}
 
-body{}
+/* These are the settings for the body. */
+
+body{
+    max-width: 1400px;
+    margin: auto;
+}
