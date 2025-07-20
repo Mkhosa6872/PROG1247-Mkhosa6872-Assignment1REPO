@@ -124,4 +124,14 @@ q{
     color:honeydew;
 }
 
-/* this is where I will 
+/* this is where I will do the styles for the profile. */
+
+#profile{
+    color:palegoldenrod;
+}
+
+/* This is where I will input pseudo element styles into my file */
+
+h1::before{
+    content: url(https://www.youtube.com/watch?v=6lm-vli0vG8);
+}
