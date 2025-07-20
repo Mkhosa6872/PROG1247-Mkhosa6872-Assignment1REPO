@@ -83,6 +83,8 @@ blockquote{
     box-shadow: .5rem .75rem .5rem .5rem red;
 }
 
+/*This is where I will input figure styles. */
+
 figure{
     border: .25rem hidden red;
     border-radius: .5rem;
@@ -101,4 +103,13 @@ figcaption{
     text-align: center;
 }
 
+q{
+    padding: .25rem;
+    margin: .25rem;
+    border-bottom: .5rem initial indianred;
+    display: block;
+}
 
+/* this is where I will input my id selector. */
+
+#para2{}
