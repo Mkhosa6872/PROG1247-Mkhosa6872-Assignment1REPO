@@ -142,19 +142,37 @@ a::first-letter{
 
 /* this is where I will start on the pseudo class selectors */
 
+/*This is the colour of the link before being interacted with. */
 a:link{
 color:blueviolet;
 }
 
+/*This will change the colour of the link to gray if the link has been clicked on already. */
 a:visited{
     color:gray;
 }
 
+/*This will change the colour of the link to greenyellow when it's being hovered over. */
 a:hover{
     color:greenyellow;
 }
 
+/*This will change the colour of the link to gold if the link is currently active. */
 a:active{
     color:gold;
+}
+
+/*I will now work on multiple selectors here. */
+
+#para2, .list, h2{
+    font-family: 'Times New Roman', Times, serif
+}
+
+/*This is where I will work on form styling. */
+
+.form-label{
+    font-variant: small-caps;
+    font-weight: 900;
+    color: aqua;
 }
 
