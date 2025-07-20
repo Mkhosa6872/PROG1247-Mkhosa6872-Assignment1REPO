@@ -60,4 +60,15 @@ aside {
     border-color:azure palevioletred papayawhip gainsboro;
     border-width: .25rem .2rem .4rem .5rem;
 }
+footer{
+    clear:both;
+}
+
+/*This will be the style for h1 */
+h1{
+    color:crimson;
+    font-size:3rem;
+    padding:.5em;
+    text-align:center;
+}
 
