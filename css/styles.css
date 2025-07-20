@@ -176,3 +176,11 @@ a:active{
     color: aqua;
 }
 
+.form-control{
+    padding: 1rem;
+    border: 0.2rem groove green;
+    border-radius: 0.5rem;
+    width: 20rem;
+    margin-bottom: 1rem;
+}
+
