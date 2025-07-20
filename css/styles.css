@@ -54,8 +54,8 @@ main {
 
 aside {
     width: 23%;
-    float: left;
+    float: top;
     padding:.25rem;
     border-style:groove;
-    
+
 }
