@@ -140,3 +140,21 @@ a::first-letter{
     color:crimson
 }
 
+/* this is where I will start on the pseudo class selectors */
+
+a:link{
+color:blueviolet;
+}
+
+a:visited{
+    color:gray;
+}
+
+a:hover{
+    color:greenyellow;
+}
+
+a:active{
+    color:gold;
+}
+
