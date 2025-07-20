@@ -97,4 +97,8 @@ figure > img {
     border-radius: .5rem;
 }
 
+figcaption{
+    text-align: center;
+}
+
 
