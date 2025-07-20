@@ -42,6 +42,11 @@ main {
     border-bottom-color:darksalmon;
     border-right-color:fuchsia;
     border-left-color:lightpink;
+    border-top-width:.25rem;
+    border-bottom-width:.5rem;
+    border-right-width:.3rem;
+    border-left-width:.4rem;
+    
     
 
 
