@@ -35,7 +35,7 @@ header, footer {
 
 main {
     width: 67%;
-    float: bottom;
+    float: left;
     padding:.25;
     border-top-style: double;
     border-bottom-style: inset;
@@ -54,7 +54,7 @@ main {
 
 aside {
     width: 23%;
-    float: top;
+    float: right;
     padding:.25rem;
     border-style:groove double dotted dashed;
     border-color:azure palevioletred papayawhip gainsboro;
