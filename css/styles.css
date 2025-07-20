@@ -1,0 +1,17 @@
+/* Manveer Khosa 8536872 */
+
+/* These are the selectors I am using throughout my style sheet.
+ID Selector, Element Selector, Group Selector, Pseudo class selector, Class Selector, and Descendant Selector. */
+
+/* This will be the be the body of my style sheet. */
+
+html{ font-style: italic; 
+      font-variant: small-caps; 
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 1.5;
+      font-family: 'Times New Roman', Times, serif;
+      font: normal small-caps normal 20px/1.5 'Times New Roman', Times, serif;
+      background-color: #ffb6c1;}
+
+body{}
