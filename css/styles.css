@@ -133,7 +133,7 @@ q{
 /* This is where I will input pseudo element styles into my file */
 
 h1::before{
-    content: url(https://www.youtube.com/watch?v=6lm-vli0vG8);
+    content: url(https://tenor.com/view/char-aznable-gundam0079-gundam-char-kick-mecha-gif-22895953);
 }
 
 a::first-letter{
