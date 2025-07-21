@@ -132,9 +132,6 @@ q{
 
 /* This is where I will input pseudo element styles into my file */
 
-h1::before{
-    content: url("https://media1.tenor.com/m/WKRg2pu4wh8AAAAd/char-aznable-gundam0079.gif");
-}
 
 a::first-letter{
     color:crimson
