@@ -121,13 +121,13 @@ q{
 /*this is where I will in put my class selector */
 
 .list{
-    color:honeydew;
+    color:darkslateblue;
 }
 
 /* this is where I will do the styles for the profile. */
 
 #profile{
-    color:palegoldenrod;
+    color:darkred;
 }
 
 /* This is where I will input pseudo element styles into my file */
@@ -156,7 +156,7 @@ color:blueviolet;
 
 /*This will change the colour of the link to gray if the link has been clicked on already. */
 a:visited{
-    color:gray;
+    color:darkmagenta;
 }
 
 /*This will change the colour of the link to greenyellow when it's being hovered over. */
@@ -166,7 +166,7 @@ a:hover{
 
 /*This will change the colour of the link to gold if the link is currently active. */
 a:active{
-    color:gold;
+    color:yellow;
 }
 
 /*I will now work on multiple selectors here. */
@@ -213,11 +213,11 @@ td{
 }
 
 tr:nth-child(even){
-    background-color:aquamarine;
+    background-color:darkblue;
 }
 
 tr:hover{
-    background-color: linen;
+    background-color: blue;
 }
 
 @media (max-width: 750px){
