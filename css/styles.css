@@ -137,6 +137,16 @@ a::first-letter{
     color:crimson
 }
 
+/*This is for the gif I added.*/
+
+.video-gif{
+    display:block;
+    margin: 1rem auto;
+    max-width:100%;
+    height:auto;
+    border-radius:.5rem;
+}
+
 /* this is where I will start on the pseudo class selectors */
 
 /*This is the colour of the link before being interacted with. */
