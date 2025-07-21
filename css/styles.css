@@ -7,7 +7,7 @@ ID Selector, Element Selector, Group Selector, Pseudo class selector, Class Sele
 
 html{ font-style: italic; 
       font-variant: small-caps; 
-      font-weight: 700;
+      font-weight: 500;
       font-size: 20px;
       line-height: 1.5;
       font-family: 'Times New Roman', Times, serif;
@@ -17,7 +17,8 @@ html{ font-style: italic;
 /* These are the settings for the body. */
 
 body{
-    max-width: 1400px;
+    max-width: 1300px;
+    padding: .5rem;
     margin: auto;
     border-style: solid;
     border-width: .25rem;
@@ -75,7 +76,7 @@ h1{
 /* now I will be working on the block quote. */
 
 blockquote{
-    width: 60%;
+    width: 80%;
     margin: auto;
     border: .5rem dotted pink;
     padding: .25rem;
@@ -92,7 +93,7 @@ figure{
 }
 
 figure > img {
-    width: 60%;
+    width: 80%;
     display: block;
     margin: auto;
     border: .25rem double royalblue;
@@ -128,6 +129,17 @@ q{
 
 #profile{
     color:darkred;
+}
+
+#quote-section{
+    border:.2rem dotted red;
+    box-shadow: 0 .3rem .6rem rgba(0, 0, 0, .1);
+    width:80%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:italic;
+    color:blueviolet;
+    padding:1rem;
 }
 
 /* This is where I will input pseudo element styles into my file */
