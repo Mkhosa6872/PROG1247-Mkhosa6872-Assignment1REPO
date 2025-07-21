@@ -225,11 +225,11 @@ td{
 }
 
 tr:nth-child(even){
-    background-color:darkblue;
+    background-color:white;
 }
 
 tr:hover{
-    background-color: blue;
+    background-color: yellow;
 }
 
 @media (max-width: 750px){
